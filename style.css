@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    color: green;
+    font-weight: bolder;
+}
+.fa-solid {
+    font-size: 30px;
+    color: orange;
+}
+.head-bar {
+   display: fl;
+}
+.head-bar ul {
+    display: flex;
+    list-style: none;
+    justify-content:right;
+   background-color:rgba(220, 220, 220, 0.525);
+   padding: 20px;
+}
+.head-bar ul li{
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+}
+.one {
+    text-align: center;
+    font-family: calibri;
+    color: white;
+    font-size: 9vw;
+    background-color: green;
+    padding: 20px;
+}
+.p1 {
+    display: flex;
+    font-size: 9vw;
+}
+.contro {
+    font-size: 15px;
+    font-size: 4vw;
+}
+.relf {
+    display: flex;
+    align-items:center;
+    font-weight: bolder;
+    color: black;
+}
+iframe  {
+    display: flex;
+    align-content: center;
+    background-color: green;
+    padding: 10px;
+}
