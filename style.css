@@ -53,3 +53,10 @@ iframe  {
     background-color: green;
     padding: 10px;
 }
+.dod {
+    font-weight: bolder;
+    font-size: 5vw;
+    font-family: calibri;
+    color: rgba(0, 0, 0, 0.45);
+    padding-bottom: 50px;
+}
