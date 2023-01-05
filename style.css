@@ -118,3 +118,18 @@ button {
     border: solid 0px green;
     padding: 5px;
 }
+.pro1 {
+    text-align: center;
+    color: green;
+}
+.pro2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: solid 2px green;
+}
+.raw {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
